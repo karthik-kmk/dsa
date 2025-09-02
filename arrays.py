@@ -140,15 +140,15 @@
 
 # 4) word palindrome
 
-# def palindrome(word):
+def palindrome(word):
 
-#     word = word.lower()
+    word = word.lower()
 
-#     return word == word[::-1]
+    return word == word[::-1]
 
 
-# print(palindrome("madam"))
-# print(palindrome("xyc"))
+print(palindrome("madam"))
+print(palindrome("xyc"))
 
 
 
